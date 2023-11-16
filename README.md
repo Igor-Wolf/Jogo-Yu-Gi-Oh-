@@ -1,9 +1,16 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Change Log v. 1.00
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Esse projeto tem por finalidade desenvolver um jogo estilo "point and click" no qual o jogador deverá jogar uma jogo de pedra, papel e tesoura com temática do Yu-Gi-Oh. A versão 1.0 foi desenvolvida juntamente com o professor da DIO. Os testes foram ralizados no navegador Mozilla Firefox através do Live Server do VS Code.
 
-conceitos abordados:
+## 💡 Features Added
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+- Jogo Criado com sucesso
+  
+
+## 🕷️ Bugs Reported
+
+- 
+
+## 🔧 Issues Fixeds
+
+-
